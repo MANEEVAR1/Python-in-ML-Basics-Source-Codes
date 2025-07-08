@@ -38,3 +38,8 @@ print(tup2.index("rajeev"))
 # nested tuples
 tup3=(23, 56, 45,(34,98,20))
 print(tup3[3][1])
+
+
+#Q1:CREATE TWO LISTS OF MULTIPLE DATATYPES AND PRACTICE THE FOLLOWING FUNCTIONS ON THEM--> append, insert, extend, remove, delete & sort (DESCENDING)
+#Q2: Write a program to count how many times the number 3 appears in a list.
+#Q3: Create a list of 5 fruits and print the second and last fruit.
