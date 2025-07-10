@@ -50,3 +50,7 @@ while password!="mani123":
         print("Wrong Password, Try Again!")
     else:
         print("Access Granted")
+
+
+#Q1: Write a program that prints the multiplication table for any number
+#Q2: Calculate Sum of numbers in the list [1,4,6,4,9]
