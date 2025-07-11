@@ -94,3 +94,48 @@ dog.sound()  # Output: Bark
 
 cat = Cat()
 cat.sound()  # Output: Meow
+
+
+
+
+
+
+
+
+
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+'''
+Q1. Student Report System (Class, Object, Encapsulation)
+Create a class Student with:
+Private attributes: __name, __marks
+A method set_details(name, marks)
+A method get_result() to print pass/fail (pass if marks >= 40)
+ 
+# Sample Output:
+# Name: Ram
+# Marks: 85
+# Result: Pass
+
+Q2. Animal Kingdom (Inheritance + Polymorphism)
+Create a base class Animal with method speak()
+Then create 2 subclasses:
+Dog → speak() should print "Barks"
+Cat → speak() should print "Meows"
+Loop through list of objects and call speak() to show polymorphism.
+ 
+# Sample Output:
+# Barks
+# Meows
+
+Q3. Payment Gateway (Abstraction + Inheritance + Method Overriding)
+Use abc module.
+Create abstract class Payment with abstract method make_payment().
+Create subclasses:
+CreditCard → prints "Paid using credit card"
+UPI → prints "Paid using UPI"
+ 
+# Sample Output:
+# Paid using credit card
+# Paid using UPI
+
+'''
