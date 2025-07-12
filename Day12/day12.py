@@ -17,7 +17,6 @@ file = open("abc.txt","w")
 file.write("Hello World")
 file.close()
 
-
 # Append Operation
 file = open("abc.txt", "a")
 file.write("\nThis is a new line added to the file.")
