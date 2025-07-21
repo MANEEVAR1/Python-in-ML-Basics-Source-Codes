@@ -15,11 +15,10 @@ This project aims to analyze student exam performance based on various factors l
 **Location**: This file is already included in the `project_folder/` directory of this repository.  
 
 Just load it directly using pandas:
-
-```python
+`
 import pandas as pd
 df = pd.read_csv('project_folder/StudentsPerformance.csv')
-
+`
 
 ### Columns Overview:
 
