@@ -9,12 +9,16 @@ This project aims to analyze student exam performance based on various factors l
 - Discover patterns among students using clustering
 
 ---
-
 ## Dataset
 
 **Dataset Name**: StudentsPerformance.csv  
-**Source**: Kaggle  
-[Download Link](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+**Location**: This file is already included in the `project_folder/` directory of this repository.  
+
+Just load it directly using pandas:
+
+import pandas as pd
+df = pd.read_csv('project_folder/StudentsPerformance.csv')
+
 
 ### Columns Overview:
 
